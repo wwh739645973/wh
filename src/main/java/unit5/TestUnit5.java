@@ -8,6 +8,7 @@ package unit5;
 public class TestUnit5 {
 	public static void main(String[] args) {
 		System.out.println("HelloWorld");
+		System.out.println("‘Ÿ¥Œ¥Ú”°HelloWorld");
 	}
 
 }
